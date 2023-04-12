@@ -9,3 +9,5 @@ npm install
 
 ## Ejecutar
 node index.js
+
+### Se debe tener instalado nodejs
